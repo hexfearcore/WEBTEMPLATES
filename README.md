@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/webtemplates-banner.png" alt="WEBTEMPLATES - A collection of modern and advanced website templates."/>
+  <img src="./assets/webtemplates-banner.jpg" alt="WEBTEMPLATES - A collection of modern and advanced website templates."/>
 </p>
 
 # WEBTEMPLATES - A Collection of Advanced Website Templates
