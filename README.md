@@ -1,9 +1,4 @@
-<!-- 
-********************************************************************************
-*  RECOMMENDATION: Create a beautiful banner image (e.g., 1280x400px) that  *
-*  represents your brand and place it in a root `assets` folder.            *
-********************************************************************************
--->
+
 <p align="center">
   <img src="./assets/webtemplates-banner.png" alt="WEBTEMPLATES - A collection of modern and advanced website templates."/>
 </p>
